@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I am a passionate and versatile tech enthusiast with experience across diverse fields, including Natural Language Processing (NLP), Machine Learning (ML), Web technologies, UI/UX design, Database Management Systems (DBMS), Neural Networks, etc. I thrive on solving complex problems and turning ideas into impactful solutions.
 
